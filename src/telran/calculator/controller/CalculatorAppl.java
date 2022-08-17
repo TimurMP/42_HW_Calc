@@ -29,9 +29,9 @@ public class CalculatorAppl {
 
     }
 
-    public static void getClassInfo(Class<?> clazz) {
-        System.out.println(clazz.getSimpleName());
-
-
-    }
+//    public static void getClassInfo(Class<?> clazz) {
+//        System.out.println(clazz.getSimpleName());
+//
+//
+//    }
 }
