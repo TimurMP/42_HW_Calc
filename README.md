@@ -9,6 +9,9 @@
 
 - To implement new functionality to the Calculator Application, the existing, empty methods in class Calculator have to
   be defined.
+
+
+
   Example:
 
 `  public double multiply(double a, double b) {
