@@ -1,0 +1,2 @@
+- The methods required for the Calculator application are pre-defined in the ***Calculable*** Interface.
+- Class Calculator Implements the methods from the Interface.
