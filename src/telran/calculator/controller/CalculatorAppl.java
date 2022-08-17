@@ -20,7 +20,7 @@ public class CalculatorAppl {
             method.setAccessible(true);
             System.out.println(method.invoke(calculatorConstructor.newInstance(), Double.valueOf(args[0]), Double.valueOf(args[1]))
             );
-            ;
+
 
         } catch (Exception e) {
             throw new RuntimeException(e);
@@ -29,7 +29,7 @@ public class CalculatorAppl {
 
     }
 
-    public static void getClassInfo (Class<?> clazz){
+    public static void getClassInfo(Class<?> clazz) {
         System.out.println(clazz.getSimpleName());
 
 
